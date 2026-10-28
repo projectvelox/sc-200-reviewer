@@ -2,6 +2,14 @@
 
 Unofficial practice exam and reviewer for **SC-200: Microsoft Security Operations Analyst**, built from `sc-200.pdf` in this folder.
 
+## About this reviewer
+
+This is a personal study aid for learning the SC-200 skills. It is meant for understanding the concepts, not for memorizing answers.
+
+- It is not affiliated with, endorsed by or sponsored by Microsoft. It does not claim to contain questions from the live exam, and it does not promise a pass.
+- The practice questions were transcribed from a third-party practice PDF. The explanations, the notes on each wrong option, the takeaways and the Microsoft Learn links were written for this reviewer, to teach why each answer fits.
+- Use it alongside the official [SC-200 study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-200) and the Microsoft Learn training for the exam.
+
 ## How to run
 
 - **Online:** https://projectvelox.github.io/sc-200-reviewer/
